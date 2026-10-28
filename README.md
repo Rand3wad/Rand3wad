@@ -23,7 +23,8 @@ The solution combines receipt uploads and POS-based invoice ingestion with AI-as
 
 **My contribution focused primarily on backend and data development**, including REST APIs, database-related logic, authentication flows, invoice processing, Google Gemini integration, testing, and technical documentation. I also contributed to the Odoo POS integration and requirements work.
 
-➡️ [View the portfolio case study](https://github.com/Rand3wad/fawterha-digital-invoice-platform)
+➡️ [View the portfolio case study](https://github.com/Rand3wad/fawterha-digital-invoice-platform)  
+➡️ [Verified backend contribution — Fawterha PR #9](https://github.com/fawterha-project/backend/pull/9)
 
 ## Professional Experience Highlights
 
