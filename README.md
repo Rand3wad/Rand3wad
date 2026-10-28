@@ -14,17 +14,23 @@ I enjoy understanding how a system works end to end — from the business proble
 **Tools:** Git, GitHub, VS Code, Figma, Notion  
 **Experience areas:** Requirements Analysis, Systems Analysis, API Integration, Data Validation, Functional Testing, UAT, Application Support
 
-## Featured Project
+## Selected Case Studies
 
 ### Fawterha — Digital Invoice Management Platform
-A digital invoice and receipt management solution designed to reduce reliance on paper receipts by centralizing invoices in a searchable digital archive.
+Backend-focused graduation project involving REST APIs, Supabase/PostgreSQL, authentication, Google Gemini receipt extraction, and Odoo POS integration.
 
-The solution combines receipt uploads and POS-based invoice ingestion with AI-assisted data extraction, expense categorization, spending reports, authentication, and reminder workflows.
+➡️ [Portfolio case study](https://github.com/Rand3wad/fawterha-digital-invoice-platform)  
+➡️ [Verified backend contribution — PR #9](https://github.com/fawterha-project/backend/pull/9)
 
-**My contribution focused primarily on backend and data development**, including REST APIs, database-related logic, authentication flows, invoice processing, Google Gemini integration, testing, and technical documentation. I also contributed to the Odoo POS integration and requirements work.
+### Operational Issue Tracking System
+Internal workflow digitization project covering ticket creation, assignment, priority/status tracking, notifications, user validation, and post-deployment support.
 
-➡️ [View the portfolio case study](https://github.com/Rand3wad/fawterha-digital-invoice-platform)  
-➡️ [Verified backend contribution — Fawterha PR #9](https://github.com/fawterha-project/backend/pull/9)
+➡️ [View case study](https://github.com/Rand3wad/operational-issue-tracking-case-study)
+
+### Employee Performance & KPI Management Platform
+Role-based internal platform covering requirements gathering, approval workflows, KPI logic, stakeholder validation, and UAT.
+
+➡️ [View case study](https://github.com/Rand3wad/employee-kpi-management-case-study)
 
 ## Professional Experience Highlights
 
